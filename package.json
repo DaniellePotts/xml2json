@@ -1,0 +1,24 @@
+{
+  "name": "xml2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniellePotts93/xml2json.git"
+  },
+  "author": "Danielle Potts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniellePotts93/xml2json/issues"
+  },
+  "homepage": "https://github.com/DaniellePotts93/xml2json#readme",
+  "dependencies": {
+    "i": "^0.3.6",
+    "npm": "^6.14.9",
+    "xml2js": "^0.4.23"
+  }
+}

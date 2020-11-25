@@ -1,0 +1,4 @@
+.vscode/
+test/
+output*
+node_modules/

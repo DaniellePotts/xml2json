@@ -16,8 +16,8 @@ npm install
 
 To run the solution, two arguments are required:
 
--	input folder
-- 	output folder
+-	Input folder
+- 	Output folder
 
 If the input folder does not exist, the system will exit. If the output folder does not exist, the system will create it.
 
